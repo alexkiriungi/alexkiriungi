@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Kiriungi</h1>
-<h3 align="center">A seasoned MERN Full Stack developer from Kenya</h3>
+<h3 align="center">A Seasoned MERN Full Stack developer from Kenya</h3>
 
 - 👯 I’m looking to collaborate on [foodyPeeps2](https://foody-peep-2-frontend.onrender.com)
 
@@ -7,13 +7,13 @@
 
 - 📝 I regularly write articles on [https://safespace-a6cd.onrender.com](https://safespace-a6cd.onrender.com)
 
-- 💬 Ask me about **React, NodeJS, ExpressJS, MongoDB, TypeScript, JavaScript, Tailwind-CSS, Redux, Full-stack development**
+- 💬 Ask me about **React, NodeJS, ExpressJS, MongoDB, TypeScript, JavaScript, Tailwind-CSS, Redux, and Full-stack development**
 
 - 📫 How to reach me **mwasxander@gmail.com**
 
 - 📄 Know about my experiences [https://alexkiriungi.vercel.app](https://alexkiriungi.vercel.app)
 
-- ⚡ Fun fact **Ever met a software engineer whose a comedian too?... Me neither🥁**
+- ⚡ Fun fact **Ever met a software engineer who's a comedian too?... Me neither🥁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

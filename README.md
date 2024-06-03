@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Kiriungi</h1>
-<h3 align="center">A Seasoned MERN Full Stack developer from Kenya</h3>
+<h3 align="center">A Seasoned MERN Full Stack developer</h3>
 
 - 👯 I’m looking to collaborate on [foodyPeeps2](https://foody-peep-2-frontend.onrender.com)
 

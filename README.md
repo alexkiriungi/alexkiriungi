@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://safespace-a6cd.onrender.com](https://safespace-a6cd.onrender.com)
 
-- 💬 Ask me about **React, NodeJS, ExpressJS, MongoDB, TypeScript, JavaScript, Tailwind-CSS, Redux, and Full-stack development**
+- 💬 Ask me about **React, NodeJS, ExpressJS, MongoDB, TypeScript, JavaScript, Tailwind-CSS, Redux, NextJS, and Full-stack development**
 
 - 📫 How to reach me **mwasxander@gmail.com**
 
